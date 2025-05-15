@@ -1,6 +1,5 @@
 # My-Projects
 
-
 ## 🧪 Static Malware Analysis Process
 
 1. 🗂 **File Type Identification**
